@@ -56,6 +56,8 @@ Esto nos lleva a los tipos de IA que existen:
 *   **ANI (Inteligencia Artificial Estrecha):** Es la IA que tenemos hoy. Sistemas especializados en una tarea (jugar al ajedrez, conducir un coche, o en nuestro caso, detectar phishing). El ECI será un sistema ANI.
 *   **AGI (Inteligencia Artificial General):** Una IA (aún teórica) con la capacidad intelectual de un humano en cualquier dominio. Podría aprender a programar, escribir una novela o componer música con la misma facilidad.
 *   **ASI (Superinteligencia Artificial):** Una IA (hipotética) que superaría la inteligencia humana en todos los aspectos, incluyendo la creatividad y la sabiduría.
+*   
+![ANI-AGI-ASI](ANI-AGI-ASI.png "ANI AGi ASI")
 
 ## La Tormenta Perfecta: Los 3 Ingredientes del Boom Actual de la IA
 
